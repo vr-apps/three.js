@@ -242,4 +242,4 @@ window.addEventListener('resize', onWindowResize);
 
 renderer.setAnimationLoop(render);
 
-export default renderer;
+export default { renderer };
